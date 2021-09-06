@@ -3,7 +3,7 @@ import turtle
 turtle.bgcolor("black")
 turtle.pensize(2)
 turtle.speed(0)
-turtle.pencolor("green")
+turtle.pencolor("magenta")
 
 
 def drawCircle(radius):
